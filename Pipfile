@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 langgraph = "*"
 ipython = "*"
+langchain-ollama = "*"
 
 [dev-packages]
 
